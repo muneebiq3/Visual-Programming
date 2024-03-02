@@ -8,3 +8,7 @@ This is a straightforward repository I've put together to help you with the VP s
 - Polymorphism
 - Encapsulation
 - Inheritance
+#### Object-Oriented Programming(C#)
+- Polymorphism
+- Encapsulation
+- Inheritance
