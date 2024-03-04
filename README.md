@@ -4,7 +4,7 @@ This is a straightforward repository I've put together to help you with the VP s
 
 ## Folder Structure
 
-The repository is organized into folders for each course, with subdirectories for different types of content. Here's an overview of the updated folder structure:
+The repository is organized into folders for each lab, with subdirectories for different types of topics. Here's an overview of the updated folder structure:
 
 ```
 Visual Programming/
