@@ -19,13 +19,19 @@ Visual Programming/
     │   │
     │   └── VP-1/
     │
-    └── Lab-2/
+    ├── Lab-2/
+    │   │
+    │   ├── Employee/
+    │   │
+    │   ├── Person/
+    │   │
+    │   └── Tollbooth/
+    │
+    └── Lab-4
         │
-        ├── Employee/
+        ├── 2DArray/
         │
-        ├── Person/
-        │
-        └── Tollbooth/
+        └── StringArray/
 ```
 
 ### Topics Covered
@@ -38,3 +44,6 @@ Visual Programming/
 - Polymorphism
 - Encapsulation
 - Inheritance
+#### Array
+- Multidimensional Array
+- Jagged Array
