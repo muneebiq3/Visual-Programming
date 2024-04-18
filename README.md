@@ -1,6 +1,6 @@
 # Visual Programming
 ## Hello!
-This is a straightforward repository I've put together to help you with the VP subject. I hope this is helpful to you. Best of luck :)
+This is a straightforward repository I've put together to help you with the VP subject using C#. I hope this is helpful to you. Best of luck :)
 
 ## Folder Structure
 
