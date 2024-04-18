@@ -27,11 +27,13 @@ Visual Programming/
     │   │
     │   └── Tollbooth/
     │
-    └── Lab-4
-        │
-        ├── 2DArray/
-        │
-        └── StringArray/
+    ├── Lab-4
+    │   │
+    │   ├── 2DArray/
+    │   │
+    │   └── StringArray/
+    │
+    └── Lab-6/
 ```
 
 ### Topics Covered
