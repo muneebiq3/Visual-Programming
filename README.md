@@ -33,7 +33,13 @@ Visual Programming/
     │   │
     │   └── StringArray/
     │
-    └── Lab-6/
+    ├── Lab-6
+    │
+    ├── Lab-9
+    │
+    ├── Lab-10
+    │
+    └── Lab-11/
 ```
 
 ### Topics Covered
